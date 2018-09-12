@@ -1,0 +1,29 @@
+{
+  "name": "dev_connector",
+  "version": "1.0.0",
+  "description": "social network for developers ",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexttrack07/Dev-Connector.git"
+  },
+  "keywords": [
+    "MERN",
+    "react",
+    "redux",
+    "Mongo",
+    "express",
+    "node",
+    "full",
+    "stack"
+  ],
+  "author": "Faadhil Hakkim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexttrack07/Dev-Connector/issues"
+  },
+  "homepage": "https://github.com/nexttrack07/Dev-Connector#readme"
+}
